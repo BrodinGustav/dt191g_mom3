@@ -2,10 +2,14 @@ using Microsoft.EntityFrameworkCore;
 namespace dt191g_mom3.Data;
 
 //Anslutning
-public class ApplicationDbContext : DbContext { //Ärver från klassen DbContect
+public class ApplicationDbContext : DbContext //Ärver från basklassen DbContect
+{ 
 
     //Konstruktur
-    public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options) //Skickar med inställningar, tar ApplicationDbContext och lagrar i variabeln options som skickas upp till basklassen 
+
+    // Tar emot DbContextOptions som används för att konfigurera och ansluta till databasen.
+    // Dessa alternativ vidarebefordras till basklassen (DbContext) för att hantera databasanslutningen.
+    public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options) 
     {
 
     }
