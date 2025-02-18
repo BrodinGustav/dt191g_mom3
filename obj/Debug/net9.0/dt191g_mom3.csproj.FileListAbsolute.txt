@@ -285,7 +285,6 @@ C:\Utbildning\dt191g_ASPNET\dt191g_mom3\obj\Debug\net9.0\dt191g_mom3.sourcelink.
 C:\Utbildning\dt191g_ASPNET\dt191g_mom3\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Utbildning\dt191g_ASPNET\dt191g_mom3\obj\Debug\net9.0\scopedcss\bundle\dt191g_mom3.styles.css
 C:\Utbildning\dt191g_ASPNET\dt191g_mom3\obj\Debug\net9.0\scopedcss\projectbundle\dt191g_mom3.bundle.scp.css
-C:\Utbildning\dt191g_ASPNET\dt191g_mom3\obj\Debug\net9.0\compressed\rnspxxlyyf-b9sayid5wm.gz
 C:\Utbildning\dt191g_ASPNET\dt191g_mom3\obj\Debug\net9.0\compressed\pdxtcvzq5z-61n19gt1b8.gz
 C:\Utbildning\dt191g_ASPNET\dt191g_mom3\obj\Debug\net9.0\compressed\wxz2cmscuk-xtxxf3hu2r.gz
 C:\Utbildning\dt191g_ASPNET\dt191g_mom3\obj\Debug\net9.0\compressed\ahohlx6hkr-agp80tu62r.gz
@@ -344,8 +343,6 @@ C:\Utbildning\dt191g_ASPNET\dt191g_mom3\obj\Debug\net9.0\compressed\y81f600zj3-f
 C:\Utbildning\dt191g_ASPNET\dt191g_mom3\obj\Debug\net9.0\compressed\i1o2adruci-dd6z7egasc.gz
 C:\Utbildning\dt191g_ASPNET\dt191g_mom3\obj\Debug\net9.0\compressed\opd5h1gdas-5pze98is44.gz
 C:\Utbildning\dt191g_ASPNET\dt191g_mom3\obj\Debug\net9.0\compressed\69pbuvhttz-mlv21k5csn.gz
-C:\Utbildning\dt191g_ASPNET\dt191g_mom3\obj\Debug\net9.0\compressed\tz6agu2bpu-z5dea440sc.gz
-C:\Utbildning\dt191g_ASPNET\dt191g_mom3\obj\Debug\net9.0\compressed\xv5pphwlei-z5dea440sc.gz
 C:\Utbildning\dt191g_ASPNET\dt191g_mom3\obj\Debug\net9.0\staticwebassets.build.json
 C:\Utbildning\dt191g_ASPNET\dt191g_mom3\obj\Debug\net9.0\staticwebassets.development.json
 C:\Utbildning\dt191g_ASPNET\dt191g_mom3\obj\Debug\net9.0\staticwebassets.build.endpoints.json
@@ -361,3 +358,6 @@ C:\Utbildning\dt191g_ASPNET\dt191g_mom3\obj\Debug\net9.0\refint\dt191g_mom3.dll
 C:\Utbildning\dt191g_ASPNET\dt191g_mom3\obj\Debug\net9.0\dt191g_mom3.pdb
 C:\Utbildning\dt191g_ASPNET\dt191g_mom3\obj\Debug\net9.0\dt191g_mom3.genruntimeconfig.cache
 C:\Utbildning\dt191g_ASPNET\dt191g_mom3\obj\Debug\net9.0\ref\dt191g_mom3.dll
+C:\Utbildning\dt191g_ASPNET\dt191g_mom3\obj\Debug\net9.0\compressed\rnspxxlyyf-u6zftferbl.gz
+C:\Utbildning\dt191g_ASPNET\dt191g_mom3\obj\Debug\net9.0\compressed\tz6agu2bpu-7n0wj1yr4w.gz
+C:\Utbildning\dt191g_ASPNET\dt191g_mom3\obj\Debug\net9.0\compressed\xv5pphwlei-7n0wj1yr4w.gz
